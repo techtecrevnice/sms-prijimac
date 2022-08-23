@@ -19,7 +19,7 @@ void setup()
   lcd.setCursor(0,0);
   lcd.print("Techtec SMS");
       
-  delay(3000);ttr
+  delay(3000);
   //Begin serial communication with Arduino and Arduino IDE (Serial Monitor)
   Serial.begin(9600);
   
